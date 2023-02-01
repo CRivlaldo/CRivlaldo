@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on telegram bots that help to convert video from TikTok and Twitter
-- 🌱 I’m currently learning Rust and Kotli
+- 🔭 I’m currently working on 3d audio chat based on Telegram
+- 🌱 I’m currently learning Rust and Kotlin
 - 👯 I’m looking to collaborate on iOS projects
 - 🔨 I contributed to [HTMLKit](https://github.com/iabudiab/HTMLKit)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crivlaldo/), [Telegram](https://t.me/crivlaldo), [Twitter](twitter.com/crivlaldo)
