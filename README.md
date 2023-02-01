@@ -13,5 +13,5 @@ If you love to share videos from TikTok or Twitter to your friends in Telegram y
 
 <br />
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=vladvlasov256&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladvlasov256&layout=compact&langs_count=8&hide_border=true)
+![Vlad's github stats](https://github-readme-stats.vercel.app/api?username=vladvlasov256&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladvlasov256&layout=compact&langs_count=8&hide_border=true)
