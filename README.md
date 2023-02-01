@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on telegram bots that help to convert video from TikTok and Twitter
-- 🌱 I’m currently learning Rust and TypeScript
+- 🌱 I’m currently learning Rust and Kotli
 - 👯 I’m looking to collaborate on iOS projects
 - 🔨 I contributed to [HTMLKit](https://github.com/iabudiab/HTMLKit)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crivlaldo/), [Telegram](https://t.me/crivlaldo), [Twitter](twitter.com/crivlaldo)
@@ -10,3 +10,8 @@
 If you love to share videos from TikTok or Twitter to your friends in Telegram you can try my bots:
 * [converter for TikTok](https://t.me/tiktok2tgbot),
 * [converter for Twitter](https://t.me/twt2tgbot).
+
+<br />
+
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=vladvlasov256&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladvlasov256&layout=compact&langs_count=8&hide_border=true)
